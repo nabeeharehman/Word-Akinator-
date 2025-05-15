@@ -57,8 +57,8 @@ Inserting: Add "zebra" via Choice 2.
 Deleting: Remove "zebra" via Choice 3 if it exists.
 Checking: Verify "apple" exists with Choice 5.
 
-:warning: **Notes
-**
+:warning: **Notes**
+
 The TST uses nested dictionaries with root, left, mid, right, and end_of_word nodes.
 Autocomplete navigates to the prefix subtree and traverses for suggestions.
 Frequency data enhances game accuracy.
