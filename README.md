@@ -43,10 +43,15 @@ The TST will load words from the CSV and launch the Word Akinator interface.
 :game_die: **Interacting with Word Akinator**
 
 Choice 1: Play a Guessing Game - Think of a word, enter a prefix, and let the program guess it based on frequency. Confirm or correct the guess.
+
 Choice 2: Insert a Word - Add a new word (e.g., "zebra") to the TST.
+
 Choice 3: Delete a Word - Remove an existing word (e.g., "zebra").
+
 Choice 4: Print All Words - View the entire word list.
+
 Choice 5: Check Existence - Confirm if a word exists.
+
 After each action, choose yes to continue or no to exit.
 
 :bulb: **Example**
