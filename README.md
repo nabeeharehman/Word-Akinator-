@@ -17,7 +17,7 @@ Frequency Tracking: Leverage a frequency dictionary to prioritize commonly guess
 :file_folder: **File Structure**
 
 python_project_dsa_1.py: The heart of the project, containing TST logic and the Word Akinator game.
-4000-most-common-english-words-csv.csv: A CSV file with common English words to initialize the TST (not included; provide your own).
+4000-most-common-english-words-csv.csv: A CSV file with common English words to initialize the TST 
 
 :gear: **Requirements**
 
